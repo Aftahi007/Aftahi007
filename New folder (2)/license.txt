@@ -1,0 +1,11 @@
+Model Information:
+* title:	Airi Akizuki (No rigging)
+* source:	https://sketchfab.com/3d-models/airi-akizuki-no-rigging-95b2e90868104c668b2ea53c6e3e030b
+* author:	Omega Slender (https://sketchfab.com/omega_slender)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Airi Akizuki (No rigging)" (https://sketchfab.com/3d-models/airi-akizuki-no-rigging-95b2e90868104c668b2ea53c6e3e030b) by Omega Slender (https://sketchfab.com/omega_slender) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
